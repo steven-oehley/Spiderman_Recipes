@@ -1,0 +1,260 @@
+{
+  "recipes": [
+    {
+      "id": "1",
+      "title": "Spider-Sense Veggie Stew",
+      "ingredients": [
+        "1 Carrot",
+        "1 Leek",
+        "200g Tofu",
+        "300ml Veg stock",
+        "1 Red Bell Pepper",
+        "1 Green Zucchini",
+        "2 Cloves Garlic"
+      ],
+      "method": "1. Pre-heat the oven to 200C/400F/gas 6. 2. Chop the carrot, leek, red bell pepper, and green zucchini into bite-sized pieces. 3. Dice the tofu and mince the garlic. 4. In a large bowl, combine all the vegetables, tofu, and garlic. Add the veg stock and mix well. 5. Transfer the mixture to a large oven-safe dish and cover with a lid or foil. 6. Bake in the oven for 40 minutes. 7. Serve hot with a side of your favorite slaw.",
+      "cookingTime": "45 minutes"
+    },
+    {
+      "id": "2",
+      "title": "Web-Slinging Veggie Pizza",
+      "ingredients": [
+        "1 Pizza Base",
+        "200ml Tomato Passata",
+        "1 Green Pepper",
+        "100g Mushrooms",
+        "50g Spinach",
+        "1 Red Onion",
+        "100g Mozzarella Cheese"
+      ],
+      "method": "1. Pre-heat the oven to 200C/400F/gas 6. 2. Spread the tomato passata evenly over the pizza base. 3. Slice the green pepper, mushrooms, and red onion. 4. Arrange the green pepper, mushrooms, spinach, and red onion on top of the passata. 5. Sprinkle the mozzarella cheese over the veggies. 6. Bake in the oven for 15-20 minutes, until the cheese is melted and bubbly. 7. Serve hot and enjoy your web-slinging meal!",
+      "cookingTime": "35 minutes"
+    },
+    {
+      "id": "3",
+      "title": "Friendly Neighborhood Greek Salad",
+      "ingredients": [
+        "1 Red Onion",
+        "1 Block of Feta Cheese",
+        "1 Cup Olives",
+        "2 Tomatoes",
+        "1 Cucumber",
+        "3 tbsp Olive Oil",
+        "1 tbsp Lemon Juice",
+        "Salt and Pepper to taste"
+      ],
+      "method": "1. Thinly slice the red onion and soak in cold water for 10 minutes to mellow the flavor. 2. Dice the feta cheese, tomatoes, and cucumber. 3. In a large salad bowl, combine the feta, olives, tomatoes, and cucumber. 4. Drain the red onion and add to the salad. 5. In a small bowl, whisk together the olive oil, lemon juice, salt, and pepper. 6. Drizzle the dressing over the salad and toss to combine. 7. Serve immediately or chill in the refrigerator for 30 minutes for the flavors to meld.",
+      "cookingTime": "20 minutes"
+    },
+    {
+      "id": "4",
+      "title": "Amazing Spider-Burger",
+      "ingredients": [
+        "2 Burger Buns",
+        "2 Veggie Burger Patties",
+        "1 Avocado",
+        "1 Tomato",
+        "Lettuce Leaves",
+        "1 Red Onion",
+        "2 tbsp Mayonnaise",
+        "1 tbsp Ketchup"
+      ],
+      "method": "1. Pre-heat the grill or a skillet to medium heat. 2. Cook the veggie burger patties according to the package instructions. 3. While the patties are cooking, slice the avocado, tomato, and red onion. 4. Toast the burger buns lightly. 5. Spread mayonnaise and ketchup on the bottom half of each bun. 6. Place the cooked patties on the buns, and top with avocado, tomato, lettuce, and red onion. 7. Cover with the top half of the buns and serve immediately.",
+      "cookingTime": "20 minutes"
+    },
+    {
+      "id": "5",
+      "title": "Web-Head Pasta",
+      "ingredients": [
+        "200g Spaghetti",
+        "2 tbsp Olive Oil",
+        "3 Cloves Garlic",
+        "1 Can Diced Tomatoes",
+        "1 tsp Red Pepper Flakes",
+        "1/2 Cup Fresh Basil",
+        "Salt and Pepper to taste",
+        "Grated Parmesan Cheese"
+      ],
+      "method": "1. Cook the spaghetti according to the package instructions. 2. While the pasta is cooking, heat olive oil in a large skillet over medium heat. 3. Mince the garlic and add to the skillet, cooking until fragrant. 4. Add the diced tomatoes and red pepper flakes to the skillet, and simmer for 10 minutes. 5. Drain the spaghetti and add it to the skillet, tossing to combine. 6. Tear the fresh basil leaves and add to the pasta, seasoning with salt and pepper. 7. Serve with grated Parmesan cheese on top.",
+      "cookingTime": "30 minutes"
+    },
+    {
+      "id": "6",
+      "title": "Peter's Power Pancakes",
+      "ingredients": [
+        "1 Cup Flour",
+        "1 tbsp Sugar",
+        "1 tsp Baking Powder",
+        "1/2 tsp Baking Soda",
+        "1/2 tsp Salt",
+        "1 Cup Buttermilk",
+        "1 Egg",
+        "2 tbsp Melted Butter",
+        "1 Cup Blueberries"
+      ],
+      "method": "1. In a large bowl, whisk together flour, sugar, baking powder, baking soda, and salt. 2. In another bowl, whisk together buttermilk, egg, and melted butter. 3. Pour the wet ingredients into the dry ingredients and mix until just combined. 4. Fold in the blueberries gently. 5. Heat a griddle or skillet over medium heat and grease lightly with butter or oil. 6. Pour 1/4 cup of batter onto the griddle for each pancake. 7. Cook until bubbles form on the surface, then flip and cook until golden brown. 8. Serve warm with syrup or additional blueberries.",
+      "cookingTime": "25 minutes"
+    },
+    {
+      "id": "7",
+      "title": "Spidey Stir-Fry",
+      "ingredients": [
+        "1 tbsp Vegetable Oil",
+        "1 Red Bell Pepper",
+        "1 Green Bell Pepper",
+        "1 Yellow Bell Pepper",
+        "1 Broccoli Crown",
+        "2 Carrots",
+        "2 Cloves Garlic",
+        "1 tbsp Soy Sauce",
+        "1 tbsp Hoisin Sauce",
+        "1 tsp Sesame Oil"
+      ],
+      "method": "1. Heat vegetable oil in a large skillet or wok over medium-high heat. 2. Slice the bell peppers and carrots, and cut the broccoli into florets. 3. Mince the garlic. 4. Add the garlic to the skillet and cook for 1 minute. 5. Add the bell peppers, broccoli, and carrots to the skillet and stir-fry for 5-7 minutes. 6. Add the soy sauce, hoisin sauce, and sesame oil, and stir to coat the vegetables. 7. Cook for an additional 2-3 minutes until the vegetables are tender-crisp. 8. Serve immediately over rice or noodles.",
+      "cookingTime": "20 minutes"
+    },
+    {
+      "id": "8",
+      "title": "Spider-Man Smoothie",
+      "ingredients": [
+        "1 Banana",
+        "1 Cup Strawberries",
+        "1/2 Cup Blueberries",
+        "1 Cup Spinach",
+        "1 Cup Almond Milk",
+        "1 tbsp Honey",
+        "1 tbsp Chia Seeds"
+      ],
+      "method": "1. Peel the banana and remove the stems from the strawberries. 2. In a blender, combine the banana, strawberries, blueberries, spinach, almond milk, honey, and chia seeds. 3. Blend until smooth. 4. Pour into glasses and serve immediately.",
+      "cookingTime": "10 minutes"
+    },
+    {
+      "id": "9",
+      "title": "Spidey Snack Wraps",
+      "ingredients": [
+        "4 Tortillas",
+        "1 Avocado",
+        "1 Tomato",
+        "1 Cup Shredded Lettuce",
+        "1/2 Cup Black Beans",
+        "1/2 Cup Corn",
+        "1/4 Cup Salsa",
+        "1/4 Cup Shredded Cheddar Cheese"
+      ],
+      "method": "1. Dice the avocado and tomato. 2. Lay out the tortillas on a flat surface. 3. Spread a layer of avocado on each tortilla. 4. Top with shredded lettuce, black beans, corn, diced tomato, salsa, and shredded cheddar cheese. 5. Roll up the tortillas tightly, securing with toothpicks if necessary. 6. Serve immediately or wrap in foil for a to-go snack.",
+      "cookingTime": "15 minutes"
+    },
+    {
+      "id": "10",
+      "title": "Web-Wrapped Enchiladas",
+      "ingredients": [
+        "8 Corn Tortillas",
+        "2 Cups Shredded Chicken",
+        "1 Cup Enchilada Sauce",
+        "1 Cup Shredded Cheddar Cheese",
+        "1/2 Cup Black Beans",
+        "1/2 Cup Corn",
+        "1/4 Cup Chopped Cilantro"
+      ],
+      "method": "1. Preheat the oven to 375F (190C). 2. In a large bowl, mix the shredded chicken, black beans, corn, and 1/2 cup of enchilada sauce. 3. Warm the tortillas in a microwave for 30 seconds to make them pliable. 4. Spoon the chicken mixture onto each tortilla, roll them up, and place them seam-side down in a baking dish. 5. Pour the remaining enchilada sauce over the rolled tortillas and sprinkle with shredded cheese. 6. Bake for 20-25 minutes, until the cheese is melted and bubbly. 7. Garnish with chopped cilantro and serve hot.",
+      "cookingTime": "35 minutes"
+    },
+    {
+      "id": "11",
+      "title": "Daily Bugle Breakfast Burrito",
+      "ingredients": [
+        "4 Flour Tortillas",
+        "6 Eggs",
+        "1/2 Cup Shredded Cheddar Cheese",
+        "1/2 Cup Diced Tomatoes",
+        "1/4 Cup Chopped Green Onions",
+        "1/4 Cup Salsa",
+        "1 Avocado"
+      ],
+      "method": "1. Scramble the eggs in a skillet over medium heat until fully cooked. 2. Warm the tortillas in a microwave or on a skillet. 3. Divide the scrambled eggs evenly among the tortillas. 4. Top each with shredded cheese, diced tomatoes, chopped green onions, salsa, and slices of avocado. 5. Roll up the tortillas into burritos. 6. Serve immediately, or wrap in foil for a grab-and-go breakfast.",
+      "cookingTime": "15 minutes"
+    },
+    {
+      "id": "12",
+      "title": "Heroic Hummus Platter",
+      "ingredients": [
+        "1 Can Chickpeas",
+        "2 tbsp Tahini",
+        "1 Lemon (juiced)",
+        "2 Cloves Garlic",
+        "1/4 Cup Olive Oil",
+        "1/2 tsp Ground Cumin",
+        "Salt to taste",
+        "Assorted Veggies (carrots, cucumbers, bell peppers)",
+        "Pita Bread"
+      ],
+      "method": "1. In a food processor, combine the chickpeas, tahini, lemon juice, garlic, olive oil, ground cumin, and salt. 2. Blend until smooth and creamy. 3. Transfer the hummus to a serving bowl. 4. Serve with sliced assorted veggies and pita bread for dipping.",
+      "cookingTime": "10 minutes"
+    },
+    {
+      "id": "13",
+      "title": "Spider-Bite Falafel",
+      "ingredients": [
+        "1 Can Chickpeas",
+        "1 Small Onion",
+        "2 Cloves Garlic",
+        "1/4 Cup Fresh Parsley",
+        "1 tsp Ground Cumin",
+        "1 tsp Ground Coriander",
+        "1/2 tsp Baking Powder",
+        "Salt and Pepper to taste",
+        "Oil for frying"
+      ],
+      "method": "1. Drain and rinse the chickpeas. 2. In a food processor, combine chickpeas, chopped onion, garlic, parsley, ground cumin, ground coriander, baking powder, salt, and pepper. 3. Blend until the mixture is coarse but holds together when pressed. 4. Form the mixture into small balls or patties. 5. Heat oil in a frying pan over medium heat. 6. Fry the falafel in batches until golden brown and crispy. 7. Serve hot with pita bread, hummus, and a side salad.",
+      "cookingTime": "25 minutes"
+    },
+    {
+      "id": "14",
+      "title": "Web-Slinger Waffles",
+      "ingredients": [
+        "2 Cups Flour",
+        "2 tbsp Sugar",
+        "1 tbsp Baking Powder",
+        "1/2 tsp Salt",
+        "2 Eggs",
+        "1 3/4 Cups Milk",
+        "1/2 Cup Vegetable Oil",
+        "1 tsp Vanilla Extract",
+        "Maple Syrup and Fresh Berries for serving"
+      ],
+      "method": "1. Preheat the waffle iron. 2. In a large bowl, whisk together flour, sugar, baking powder, and salt. 3. In another bowl, beat the eggs and then add the milk, vegetable oil, and vanilla extract. 4. Pour the wet ingredients into the dry ingredients and mix until just combined. 5. Pour the batter into the preheated waffle iron and cook according to the manufacturer's instructions. 6. Serve warm with maple syrup and fresh berries.",
+      "cookingTime": "20 minutes"
+    },
+    {
+      "id": "15",
+      "title": "Spider-Man Spaghetti Squash",
+      "ingredients": [
+        "1 Spaghetti Squash",
+        "2 tbsp Olive Oil",
+        "1 tsp Salt",
+        "1/2 tsp Black Pepper",
+        "1/2 Cup Marinara Sauce",
+        "1/4 Cup Grated Parmesan Cheese",
+        "Fresh Basil for garnish"
+      ],
+      "method": "1. Preheat the oven to 400F (200C). 2. Cut the spaghetti squash in half lengthwise and scoop out the seeds. 3. Drizzle the inside of the squash with olive oil, and season with salt and black pepper. 4. Place the squash halves cut side down on a baking sheet. 5. Bake for 35-40 minutes, until the flesh is tender and easily scraped into strands with a fork. 6. Heat the marinara sauce in a small saucepan. 7. Once the squash is cooked, use a fork to scrape the flesh into spaghetti-like strands. 8. Serve the spaghetti squash topped with marinara sauce, grated Parmesan cheese, and fresh basil.",
+      "cookingTime": "45 minutes"
+    },
+    {
+      "id": "16",
+      "title": "Spider-Sense Stuffed Peppers",
+      "ingredients": [
+        "4 Bell Peppers",
+        "1 Cup Cooked Quinoa",
+        "1 Cup Black Beans",
+        "1 Cup Corn",
+        "1/2 Cup Diced Tomatoes",
+        "1/2 Cup Shredded Cheddar Cheese",
+        "1 tsp Cumin",
+        "Salt and Pepper to taste"
+      ],
+      "method": "1. Preheat the oven to 375F (190C). 2. Cut the tops off the bell peppers and remove the seeds. 3. In a large bowl, mix the cooked quinoa, black beans, corn, diced tomatoes, cumin, salt, and pepper. 4. Stuff the bell peppers with the quinoa mixture. 5. Place the stuffed peppers in a baking dish and top with shredded cheddar cheese. 6. Cover the dish with foil and bake for 30 minutes. 7. Remove the foil and bake for an additional 10 minutes, until the cheese is melted and bubbly. 8. Serve hot.",
+      "cookingTime": "45 minutes"
+    }
+  ]
+}
