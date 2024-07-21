@@ -4,9 +4,9 @@
 
 @font-face {
   font-family: "CombackHomeRegular";
-  src: url("/fonts/CombackHomeRegular-jEMd9.ttf") format("truetype");
+  src: url("./assets/fonts/CombackHomeRegular-jEMd9.ttf") format("truetype");
 }
 
-h1 {
+.site-title {
   font-family: "CombackHomeRegular", sans-serif;
 }
