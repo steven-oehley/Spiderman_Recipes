@@ -255,6 +255,53 @@
       ],
       "method": "1. Preheat the oven to 375F (190C). 2. Cut the tops off the bell peppers and remove the seeds. 3. In a large bowl, mix the cooked quinoa, black beans, corn, diced tomatoes, cumin, salt, and pepper. 4. Stuff the bell peppers with the quinoa mixture. 5. Place the stuffed peppers in a baking dish and top with shredded cheddar cheese. 6. Cover the dish with foil and bake for 30 minutes. 7. Remove the foil and bake for an additional 10 minutes, until the cheese is melted and bubbly. 8. Serve hot.",
       "cookingTime": "45 minutes"
+    },
+    {
+      "id": "d6ce",
+      "title": "Spicy Spider Breyani",
+      "method": "1. Rinse 2 cups of rice thoroughly under cold water.\n2. In a large pot, bring 4 cups of stock to a boil.\n3. Add the rinsed rice to the boiling stock, reduce heat to low, and cover. Cook for 15-20 minutes until the rice is tender.\n4. In a separate large pan, heat oil over medium heat and add 1 finely chopped onion. Sauté until golden brown.\n5. Add 1 tablespoon of cumin and 2 tablespoons of masala to the onions and cook for 2 minutes until fragrant.\n6. Add 500g of mutton pieces to the pan and cook until browned on all sides.\n7. Add 2-3 chopped chillis and 2 diced potatoes to the mutton mixture.\n8. Pour in 1 cup of stock, cover, and simmer for 30-40 minutes until the mutton and potatoes are tender.\n9. Layer the cooked rice over the mutton mixture, cover, and cook on low heat for another 10 minutes to allow the flavors to meld.\n10. Serve hot, garnished with fresh cilantro if desired.",
+      "cookingTime": "90 minutes",
+      "ingredients": [
+        "rice",
+        "chillis",
+        "mutton",
+        "stock",
+        "onion",
+        "cumin",
+        "masala",
+        "potatoes"
+      ],
+      "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ff39023a-dc5a-4b3f-a1d6-c5e49400c378/dg7gp63-85951b80-31b6-44ed-bdfa-ac4b7b0cfc0c.jpg/v1/fill/w_1280,h_1921,q_75,strp/in_a_spiderman_kitchen_by_comiconly_dg7gp63-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTkyMSIsInBhdGgiOiJcL2ZcL2ZmMzkwMjNhLWRjNWEtNGIzZi1hMWQ2LWM1ZTQ5NDAwYzM3OFwvZGc3Z3A2My04NTk1MWI4MC0zMWI2LTQ0ZWQtYmRmYS1hYzRiN2IwY2ZjMGMuanBnIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.peasi7axtT2rQ-955gNw8lcMEo64mfUoG28hek7gv5Y"
+    },
+    {
+      "id": "8e0c",
+      "title": "Spider Cookies",
+      "method": "Preheat the oven to 350°F (175°C).\nIn a large bowl, cream together 1 cup of softened butter, 1 cup of granulated sugar, and 1 cup of brown sugar until smooth.\nBeat in 2 large eggs one at a time, then stir in 1 teaspoon of vanilla extract.\nDissolve 1 teaspoon of baking soda in 2 teaspoons of hot water and add to the mixture along with 1/2 teaspoon of salt. Stir in 3 cups of all-purpose flour until just blended.\nFold in 2 cups of chocolate chips.\nDrop by large spoonfuls onto ungreased baking sheets and bake for about 10 minutes, or until edges are nicely browned. Let cool before serving.",
+      "cookingTime": "20 minutes",
+      "ingredients": [
+        "flour",
+        "sugar",
+        "butter",
+        "eggs",
+        "milk",
+        "baking soda",
+        "salt",
+        "vanilla extract"
+      ],
+      "image": "https://pbs.twimg.com/media/EXHSct3XQAAuYoT.jpg"
+    },
+    {
+      "id": "9b4c",
+      "title": "Spider Sammie ",
+      "method": "1. Make sammi\n2. Eat",
+      "cookingTime": "10 minutes",
+      "ingredients": [
+        "Bread",
+        "Ham",
+        "Mayo",
+        "Cheese"
+      ],
+      "image": "https://i.pinimg.com/564x/95/84/3b/95843b50aa8e03cd3a9030d14422b185.jpg"
     }
   ]
 }

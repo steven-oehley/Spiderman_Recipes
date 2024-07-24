@@ -11,9 +11,9 @@ import spiderBurrito from "../assets/img/spider-bfast-burrito.webp";
 import spiderPlatter from "../assets/img/spider-platter.webp";
 import spiderFalaffel from "../assets/img/spider-falafel.webp";
 import spiderWaffle from "../assets/img/spider-waffle.webp";
-import spiderSpaghetti from "../assets/img/spider-spaghetti.webp";
+import spiderSpaghetti from "../assets/img/spider-sphagetti.webp";
 import spiderPeppers from "../assets/img/spider-peppers.webp";
-import spiderPastas from "../assets/img/spider-pasta.webp";
+import spiderPasta from "../assets/img/spider-pasta.webp";
 
 export const imageMap = {
   1: spiderStew,

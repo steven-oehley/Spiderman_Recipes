@@ -3,10 +3,14 @@
 @tailwind utilities;
 
 @font-face {
-  font-family: "CombackHomeRegular";
-  src: url("./assets/fonts/CombackHomeRegular-jEMd9.ttf") format("truetype");
+  font-family: "Spidey";
+  src: url("./assets/fonts//Mightyspidey-pmaa.ttf") format("truetype");
 }
 
 .site-title {
-  font-family: "CombackHomeRegular", sans-serif;
+  font-family: "Spidey", sans-serif;
+}
+
+.App {
+  min-height: 100%;
 }
