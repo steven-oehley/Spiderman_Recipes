@@ -1,5 +1,5 @@
 import { useState, useRef, useEffect } from "react";
-import { useHistory } from "react-router-dom";
+import { useNavigate } from "react-router-dom";
 import { useFetch } from "../../hooks/useFetch";
 import { useTheme } from "../../hooks/useTheme"; // Import the custom hook
 
@@ -12,7 +12,7 @@ function CreatePage() {
   const [imageAddress, setImageAddress] = useState("");
   const ingredientInputRef = useRef(null);
 
-  const history = useHistory();
+  const history = useNavigate();
 
   const { postData, data } = useFetch("http://localhost:3000/recipes", "POST");
 

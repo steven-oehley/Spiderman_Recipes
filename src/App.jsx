@@ -1,8 +1,8 @@
 import {
   BrowserRouter as Router,
+  Routes,
   Route,
-  Switch,
-  Redirect,
+  Navigate,
 } from "react-router-dom";
 import { useState } from "react";
 
@@ -21,21 +21,15 @@ function App() {
     <div className="App">
       <Router>
         <Navbar searchFilter={searchFilter} setSearchFilter={setSearchFilter} />
-        <Switch>
-          <Route path="/" exact>
-            <HomePage searchFilter={searchFilter} />
-          </Route>
-          <Route path="/create">
-            <CreatePage />
-          </Route>
+        <Routes>
+          <Route path="/" element={<HomePage searchFilter={searchFilter} />} />
 
-          <Route path="/recipe/:id">
-            <RecipePage />
-          </Route>
-          <Route path="*">
-            <Redirect to="/" />
-          </Route>
-        </Switch>
+          <Route path="/create" element={<CreatePage />} />
+
+          <Route path="/recipe/:id" element={<RecipePage />} />
+
+          <Route path="*" element={<Navigate to="/" replace />} />
+        </Routes>
       </Router>
     </div>
   );
