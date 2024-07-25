@@ -1,5 +1,7 @@
 # Spiderman's Recipes
 
+![Spiderman's Cookbook Screenshot](./assets/img/spider-cookbook.webp)
+
 ## About
 
 Spiderman's Recipes is a React-based web application that allows users to explore, search, and create recipes. The project leverages modern web development technologies, including React, Tailwind CSS, and React Router.
