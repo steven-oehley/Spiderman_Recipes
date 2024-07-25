@@ -1,7 +1,7 @@
 import { useState, useRef, useEffect } from "react";
 import { useHistory } from "react-router-dom";
-
 import { useFetch } from "../../hooks/useFetch";
+import { useTheme } from "../../hooks/useTheme"; // Import the custom hook
 
 function CreatePage() {
   const [title, setTitle] = useState("");
@@ -15,6 +15,8 @@ function CreatePage() {
   const history = useHistory();
 
   const { postData, data } = useFetch("http://localhost:3000/recipes", "POST");
+
+  const { mode } = useTheme(); // Use the custom hook to access theme context
 
   function handleSubmit(e) {
     e.preventDefault();
@@ -46,9 +48,21 @@ function CreatePage() {
   }
 
   return (
-    <div className="relative min-h-screen bg-black flex items-center justify-center p-8">
-      <div className="bg-slate-800 p-8 rounded-lg shadow-lg max-w-lg w-full">
-        <h2 className="text-4xl font-bold text-red-600 mb-4">
+    <div
+      className={`relative min-h-screen flex items-center justify-center p-8 ${
+        mode === "dark" ? "bg-black" : "bg-white"
+      }`}
+    >
+      <div
+        className={`p-8 rounded-lg shadow-lg max-w-lg w-full ${
+          mode === "dark" ? "bg-slate-800" : "bg-white"
+        }`}
+      >
+        <h2
+          className={`text-4xl font-bold mb-4 ${
+            mode === "dark" ? "text-red-600" : "text-red-600"
+          }`}
+        >
           Add a new recipe
         </h2>
         <form onSubmit={handleSubmit}>
@@ -58,7 +72,13 @@ function CreatePage() {
           <input
             type="text"
             id="title"
-            className="w-full p-2 mb-4 border border-gray-200 rounded"
+            className={`w-full p-2 mb-4 border rounded ${
+              mode === "dark" ? "border-gray-200" : "border-gray-700"
+            } ${
+              mode === "dark"
+                ? "bg-slate-800 text-white"
+                : "bg-white text-black"
+            }`}
             onChange={({ target }) => setTitle(target.value)}
             value={title}
             required
@@ -70,12 +90,17 @@ function CreatePage() {
             <input
               type="text"
               id="ingredients"
-              className="w-full p-2 border border-gray-300 rounded-l"
+              className={`w-full p-2 border rounded-l ${
+                mode === "dark" ? "border-gray-300" : "border-gray-700"
+              } ${
+                mode === "dark"
+                  ? "bg-slate-800 text-white"
+                  : "bg-white text-black"
+              }`}
               value={ingredientInput}
               ref={ingredientInputRef}
               onChange={(e) => setIngredientInput(e.target.value)}
             />
-
             <button
               type="button"
               className="bg-red-600 text-white px-4 py-2 rounded-r hover:bg-red-700 transition duration-300"
@@ -85,16 +110,24 @@ function CreatePage() {
             </button>
           </div>
           {ingredients.length > 0 && (
-            <p className="text-slate-400 mb-2">{`Ingredients: ${ingredients.join(
-              ", "
-            )}`}</p>
+            <p
+              className={`${
+                mode === "dark" ? "text-slate-400" : "text-gray-700"
+              } mb-2`}
+            >{`Ingredients: ${ingredients.join(", ")}`}</p>
           )}
           <label htmlFor="method" className="block text-xl font-bold mb-2">
             Method:
           </label>
           <textarea
             id="method"
-            className="w-full p-2 mb-4 border border-gray-300 rounded"
+            className={`w-full p-2 mb-4 border rounded ${
+              mode === "dark" ? "border-gray-300" : "border-gray-700"
+            } ${
+              mode === "dark"
+                ? "bg-slate-800 text-white"
+                : "bg-white text-black"
+            }`}
             onChange={(e) => setMethod(e.target.value)}
             value={method}
             required
@@ -105,7 +138,13 @@ function CreatePage() {
           <input
             id="cooking"
             type="number"
-            className="w-full p-2 mb-4 border border-gray-300 rounded"
+            className={`w-full p-2 mb-4 border rounded ${
+              mode === "dark" ? "border-gray-300" : "border-gray-700"
+            } ${
+              mode === "dark"
+                ? "bg-slate-800 text-white"
+                : "bg-white text-black"
+            }`}
             onChange={(e) => setCookingTime(e.target.value)}
             value={cookingTime}
             min={5}
@@ -113,10 +152,18 @@ function CreatePage() {
             max={240}
             required
           />
-          <label htmlFor="image">Image URL:</label>
+          <label htmlFor="image" className="block text-xl font-bold mb-2">
+            Image URL:
+          </label>
           <input
             type="text"
-            className="w-full p-2 mb-4 border border-gray-300 rounded"
+            className={`w-full p-2 mb-4 border rounded ${
+              mode === "dark" ? "border-gray-300" : "border-gray-700"
+            } ${
+              mode === "dark"
+                ? "bg-slate-800 text-white"
+                : "bg-white text-black"
+            }`}
             required
             value={imageAddress}
             onChange={(e) => setImageAddress(e.target.value)}

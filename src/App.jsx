@@ -16,6 +16,7 @@ import Navbar from "./components/Navbar";
 
 function App() {
   const [searchFilter, setSearchFilter] = useState("");
+
   return (
     <div className="App">
       <Router>

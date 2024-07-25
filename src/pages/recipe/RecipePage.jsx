@@ -1,5 +1,6 @@
 import { useParams } from "react-router-dom";
 import { useFetch } from "../../hooks/useFetch";
+import { useTheme } from "../../hooks/useTheme"; // Import the custom hook
 
 import RecipeCard from "./components/RecipeCard";
 
@@ -11,8 +12,14 @@ function RecipePage() {
     error,
   } = useFetch(`http://localhost:3000/recipes/${id}`);
 
+  const { mode } = useTheme(); // Use the custom hook to access theme context
+
   return (
-    <section className="min-h-screen bg-black">
+    <section
+      className={`min-h-screen ${
+        mode === "dark" ? "bg-black text-white" : "bg-white text-black"
+      }`}
+    >
       <div className="container mx-auto items-center py-8">
         {isLoading && (
           <div className="flex justify-center">
