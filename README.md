@@ -1,6 +1,6 @@
 # Spiderman's Recipes
 
-![Spiderman's Cookbook Screenshot](./assets/img/spider-cookbook.webp)
+![Spiderman's Cookbook Screenshot](./src/assets/img/spider-cookbook.webp)
 
 ## About
 
